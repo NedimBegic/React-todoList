@@ -1,0 +1,16 @@
+
+.lists{
+    margin:1em auto;
+    width: 90%;
+    background-color:rgb(79, 79, 184);
+    padding:.3em;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 50em;
+    font-weight: bold;
+    text-align: center;
+    color: antiquewhite;
+}
+
