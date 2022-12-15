@@ -1,5 +1,4 @@
 import React from 'react';
-import Card from '../Ul/Card';
 import './List.css'
 
 const List = props => {
